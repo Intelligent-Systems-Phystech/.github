@@ -2,8 +2,8 @@
 The repository contains research and educational projects of Intelligent Systems Department of [Moscow Insititute of Physics and Technologies](https://mipt.ru/english/).
 
 ## Contact information 
-* [department site](m1p.org)
-* [department site (Russian version)](machinelearning.ru)
+* [Department site](m1p.org)
+* [Department site (Russian version)](machinelearning.ru)
 * Mail: mlalgorithms(at)gmail.com
 
 ## Repository info
