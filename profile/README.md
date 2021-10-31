@@ -4,11 +4,11 @@ The repository contains research and educational projects of Intelligent Systems
 ## Contact information 
 * [department site](m1p.org)
 * [department site (Russian version)](machinelearning.ru)
-* Mail: MLAlgorithms(at)gmail.com
+* Mail: mlalgorithms(at)gmail.com
 
 ## Repository info
-* [Educational courses repositories](reps_courses.md)
-* [Educational group projects](reps_groups.md)
-* [Graduation works](reps_students.md)
-* [Research projects](reps_research.md)
-* [Other repositories](reps_other.md)
+* [Educational courses repositories](profile/reps_courses.md)
+* [Educational group projects](profile/reps_groups.md)
+* [Graduation works](profile/reps_students.md)
+* [Research projects](profile/reps_research.md)
+* [Other repositories](profile/reps_other.md)
