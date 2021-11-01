@@ -16,12 +16,18 @@ Student | Work title |Work title (English)|Link|Level|
 | [Tagir Sattarov](https://github.com/Tagir-Sattarov) | Построение тематических моделей полилогов | - | [Sattarov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Sattarov-BS-Thesis) | Bachelor |
 [Viktor Pankratov](https://github.com/PankratovViktor) |  Вероятностное тематическое моделирование несбалансированных текстовых коллекций | - | [Pankratov_BS_Thesis](https://github.com/Intelligent-Systems-Phystech/Pankratov_BS_Thesis) | Bachelor |
 
+## Group 674 (2019—2022)
+Student| Work title |Work title (English)|Link|Level|
+| --- | --- | --- | --- | --- | 
+| [Sviatoslav Panchenko](https://github.com/PanchenkoSviatoslav) | Построение вероятностного метрического пространства для моделирования зависимых от ориентации состояний | - | [ProbabilisticMetricSpace](https://github.com/Intelligent-Systems-Phystech/ProbabilisticMetricSpace) | Bachelor |
+
 ## Group 474 (2017—2020) 
 Student| Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
 [Anton Smerdov](https://github.com/smerdov) | Выбор оптимальной модели рекуррентной сети в задачах поиска парафраза | - |  [BSThesis/Smerdov2018](https://github.com/Intelligent-Systems-Phystech/BSThesis/tree/master/Smerdov2018) | Bachelor |
 Innokentiy Shibaev | Прогнозирование оптимальных суперпозиций в задачах регрессии | - |  [BSThesis/Shibaev2018](https://github.com/Intelligent-Systems-Phystech/BSThesis/tree/master/Shibaev018) | Bachelor |
 [Karina Usmanova](https://github.com/karina-usmanova) | Модели обнаружения зависимостей во временных рядах в задачах построения прогностических моделей | - | [BSThesis/Usmanova2018](https://github.com/Intelligent-Systems-Phystech/BSThesis/tree/master/Usmanova2018) | Bachelor |
+[Karina Usmanova](https://github.com/karina-usmanova) | Аппроксимация фазовой траектории квазипериодических сигналов методом сферической регрессии  | - | [SphericalRegression](https://github.com/Intelligent-Systems-Phystech/SphericalRegression) | Master |
 [Sergey Ivanychev](https://github.com/ivanychev)|Классификация временных рядов с помощью их признакового описания | - | [BSThesis/Ivanychev2018](https://github.com/Intelligent-Systems-Phystech/BSThesis/tree/master/Ivanychev2018) | Bachelor |
 
 

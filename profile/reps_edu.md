@@ -13,6 +13,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | - | - | [2021-Project77](https://github.com/intelligent-Systems-Phystech/2021-Project77) | [Tonchik-hv  (???)](https://github.com/Tonchik-hv) |
 | - | - | [2021-Project85](https://github.com/intelligent-Systems-Phystech/2021-Project85) | [Konstantin Iakovlev](https://github.com/Konstantin-Iakovlev) |
 | - | - | [2021-Project88](https://github.com/intelligent-Systems-Phystech/2021-Project88) | [Andrei Bazhenov](https://github.com/TheRealBazhen) |
+| Sample size estimation | - | [ProjectSampleSize](https://github.com/Intelligent-Systems-Phystech/ProjectSampleSize) | [xtonev(???)](https://github.com/xtonev), [Eugenia Veselova](https://github.com/EugeniaVeselova), [Valeriy Markin](https://github.com/ValeriyMarkin), [Tamaz Gadaev](https://github.com/ttgadaev)
 ## 2020
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
@@ -34,6 +35,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | - | - | [2020_Project58_ESRF_images](https://github.com/intelligent-Systems-Phystech/2020_Project58_ESRF_images) | [Nerkan78 (???)](https://github.com/Nerkan78) |
 | - | Порождение признаков с помощью локально-аппроксимирующих моделей (Классификация видов деятельности человека по измерениям фитнес-браслетов). | [2020_Project8](https://github.com/intelligent-Systems-Phystech/2020_Project8) | [Maxim Khristolubov](https://github.com/Maxim-Hristolubov) |
 | - | - | [2020_Project_9](https://github.com/intelligent-Systems-Phystech/2020_Project_9) | [Vyacheslav Shokorov](https://github.com/vshokorov) |
+
 ## 2019
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
