@@ -7,8 +7,8 @@ The repository contains research and educational projects of Intelligent Systems
 * Mail: mlalgorithms(at)gmail.com
 
 ## Repository info
-* [Educational courses repositories](profile/reps_courses.md)
-* [Educational group projects](profile/reps_groups.md)
+* [Educational courses](profile/reps_courses.md)
+* [Educational projects](profile/reps_edu.md)
 * [Graduation works](profile/reps_students.md)
 * [Research projects](profile/reps_research.md)
 * [Other repositories](profile/reps_other.md)
