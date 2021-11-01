@@ -28,7 +28,7 @@ Innokentiy Shibaev | Прогнозирование оптимальных су�
 ## Group 274 (2015—2018) 
 Student| Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
-[Artem Bochkarev](https://github.com/ar-)| Структурное обучение для генерации моделей | - | [https://github.com/Intelligent-Systems-Phystech/MSThesis/tree/master/Bochkarev2018StructuredLearning](MSThesis/Bochkarev2018StructuredLearning) | Master |
+[Artem Bochkarev](https://github.com/ar-bochkarev)| Структурное обучение для генерации моделей | - | [https://github.com/Intelligent-Systems-Phystech/MSThesis/tree/master/Bochkarev2018StructuredLearning](MSThesis/Bochkarev2018StructuredLearning) | Master |
 [Roman Isachenko](https://github.com/r-isachenko) |  Снижение размерности пространства в задачах анализа временных рядов | - | [https://github.com/Intelligent-Systems-Phystech/MSThesis/tree/master/Isachenko2018MSThesis](MSThesis/Isachenko2018MSThesis) | Master |
 [Alexey Goncharov](https://github.com/lexix) |  -  | - | [PhDThesis/Goncharov2019](https://github.com/Intelligent-Systems-Phystech/PhDThesis/tree/master/Goncharov2019) |  PhD |
 [Radoslav Neychev](https://github.com/neychev)|  - | - | [Neychev_PhD_Thesis](https://github.com/Intelligent-Systems-Phystech/Neychev_PhD_Thesis)  | PhD |
