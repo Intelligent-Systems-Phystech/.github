@@ -1,4 +1,5 @@
 # Educational courses repositories
+## Active courses
 |Course name|Course name (Russian)|Status|Link|External course links| Maintainers |
 | --- | --- | --- | --- | --- | --- |
 | Applied statistical data analysis | Прикладной статистический анализ данных |  Active (in spring terms) | [psad](https://github.com/Intelligent-Systems-Phystech/psad) | - | [Oleg Bakhteev](github.com/bahleg), [Andrii Hraboviy](https://github.com/andriygav) |
