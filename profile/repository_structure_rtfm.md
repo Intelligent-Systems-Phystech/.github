@@ -30,6 +30,7 @@ If your repository falls under more than one type, you are most likely doing som
 2. Write short description, English description is necessary, Russian description is optional.
 3. Add topic "research" into to your repository topics.
 4. Fill the project into [table](profile/reps_research.md).   The repositories are sorted in alphabetical order. 
+5. Please change the status of your research project in the table according to your actual research status timely. 
 
 ## Repository for graduate works
 1. Create repository.
