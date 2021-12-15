@@ -2,7 +2,7 @@
 ## Group 874 (2021—2024)
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
-[Kurdyukova Antonina]|- | - |  - |  - |
+[Kurdyukova Antonina](https://github.com/Tonchik-hv)|Определение фазы движения человека по сигналам носимых устройств | Phase detection of human motions with signals of wearable devices |  [Kurdyukova-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis) |  Bachelor |
 | [Pilkevich Anton](https://github.com/anton39reg) |- | - |  [Pilkevich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis) | Bachelor|
 ## Group 774 (2020—2023) 
 Student | Work title |Work title (English)|Link|Level|
