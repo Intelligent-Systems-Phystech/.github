@@ -3,6 +3,7 @@
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
 [Kurdyukova Antonina]|- | - |  - |  - |
+[Pilkevich Anton]|- | - |  [Pilkevich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis) | Bachelor|
 ## Group 774 (2020—2023) 
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
