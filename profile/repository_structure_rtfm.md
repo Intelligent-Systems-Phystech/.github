@@ -34,7 +34,7 @@ If your repository falls under more than one type, you are most likely doing som
 
 ## Repository for graduate works
 1. Create repository.
-2. Write short description, English description is necessary, Russian description is optional.
+2. Write short description, Russian description is necessary, English description is optional.
 3. Add topic "graduate" into to your repository topics.
 4. Add topic "bachelor", "master" or "phd" into your repository topics.
 5. Fill the project into [table](reps_students.md).   The repositories are sorted in alphabetical order of the student first name. 
