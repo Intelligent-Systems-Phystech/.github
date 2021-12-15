@@ -1,4 +1,8 @@
 # Graduation works
+## Group 874 (2021—2024)
+Student | Work title |Work title (English)|Link|Level|
+| --- | --- | --- | --- | --- | 
+[Kurdyukova Antonina]|- | - |  - |  - |
 ## Group 774 (2020—2023) 
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
