@@ -2,6 +2,7 @@
 ## Group 874 (2021—2024)
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
+[Gorchakov Vyacheslav](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-Thesis) | Сэмплирование по важности в задаче моделирования потока мощности постоянного тока |Importance Sampling Approach to Chance-Constrained DC Optimal Power Flow| [Gorchakov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Gorchakov-BS-Thesis) |  Bachelor |
 [Gorpinich Mariya](https://github.com/gorpinich-m)| Оптимизация метапараметров в задаче дистилляции знаний | Metaparameter optimization in knowledge distillation |  [Gorpinich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Gorpinich-BS-Thesis) |  Bachelor |
 [Kurdyukova Antonina](https://github.com/Tonchik-hv)|Определение фазы движения человека по сигналам носимых устройств | Phase detection of human motions with signals of wearable devices |  [Kurdyukova-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis) |  Bachelor |
 | [Pilkevich Anton](https://github.com/anton39reg) |- | - |  [Pilkevich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis) | Bachelor|
