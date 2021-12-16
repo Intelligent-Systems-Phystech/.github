@@ -6,6 +6,8 @@ Student | Work title |Work title (English)|Link|Level|
 [Gorpinich Mariya](https://github.com/gorpinich-m)| Оптимизация метапараметров в задаче дистилляции знаний | Metaparameter optimization in knowledge distillation |  [Gorpinich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Gorpinich-BS-Thesis) |  Bachelor |
 [Kurdyukova Antonina](https://github.com/Tonchik-hv)|Определение фазы движения человека по сигналам носимых устройств | Phase detection of human motions with signals of wearable devices |  [Kurdyukova-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis) |  Bachelor |
 | [Pilkevich Anton](https://github.com/anton39reg) |- | - |  [Pilkevich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis) | Bachelor|
+[Yakovlev Konstantin](https://github.com/Konstantin-Iakovlev)|Поиск согласованных нейросетевых архитектур с контролем сложности| Selection of concordant architectures with complexity control |  [Yakovlev-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Yakovlev-BS-Thesis) |  Bachelor |
+
 ## Group 774 (2020—2023) 
 Student | Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
