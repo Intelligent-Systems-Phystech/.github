@@ -6,7 +6,7 @@
 | Deep learning model selection with parametric complexity control | - | Waiting for review | [VarHyperNet](https://github.com/Intelligent-Systems-Phystech/VarHyperNet) | - | [Olgra Grebenkova](https://github.com/GrebenkovaO), [Oleg Bakhteev](https://github.com/bahleg) |
 | Heterogenous knowledge distillation | Дистилляция разнородных моделей | Active | [HeterogenKD](https://github.com/Intelligent-Systems-Phystech/HeterogenKD) | - | [Alexander Kolesov](https://github.com/Kolessov), [Oleg Bakhteev](https://github.com/bahleg)|
 | Knowledge distillation for models with heterogenous layers | Дистилляция разнослойных моделей |  Active |[HeteroLayerDistillation](https://github.com/Intelligent-Systems-Phystech/HeteroLayerDistillation) | - | [Maria Gorpinich](https://github.com/gorpinich-m), [Oleg Bakhteev](https://github.com/bahleg)
-
+|Neural architecture search with structurecomplexity control| - | Waiting for the conference | [DARTS-CC](https://github.com/Intelligent-Systems-Phystech/DARTS-CC) | - | [Konstantin Yakovlev](https://github.com/Konstantin-Iakovlev), [Olga Grebenkova](https://github.com/GrebenkovaO), [Oleg Bakhteev](https://github.com/bahleg), [Vadim Strijov](https://github.com/Strijov)|
 
 ## Finished projects
 |Project name|Project name (Russian)|Status|Link|External links| Contributors |
