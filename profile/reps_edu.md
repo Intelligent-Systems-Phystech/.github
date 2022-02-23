@@ -7,6 +7,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | CNN interpretation | Интерпретация свёрточных нейронных сетей | [2022-Project99](https://github.com/Intelligent-Systems-Phystech/2022-Project99) | [Timur Muradov](https://github.com/TimkaMLG) |
 | Wildfire prediction|Прогнозирование лесных пожаров |[2022-Project-93](https://github.com/Intelligent-Systems-Phystech/2022-Project-93)| [Zharov Georgii](https://github.com/Egor-s-gor)|
 | Anti-Distillation | Антидистилляция |[2022-Project97](https://github.com/Intelligent-Systems-Phystech/2022-Project97)| [Petrushina Kseniia](https://github.com/pkseniya)|
+| Protein-protein interaction prediction | Предсказание белок-белковых взаимодействий | [2022-Project-103](https://github.com/Intelligent-Systems-Phystech/2022-Project-103) | [Alen Aliev](https://github.com/AlievAE) |
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
