@@ -3,7 +3,7 @@
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
 | - | - | [2021-Project-93-2](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-2) | [Vladislav Pyzh](https://github.com/vladpyzh) |
-
+| CNN interpretation | Интерпретация свёрточных нейронных сетей | [2022-Project99](https://github.com/Intelligent-Systems-Phystech/2022-Project99) | [Timur Muradov](https://github.com/TimkaMLG) |
 
 
 ## 2021
