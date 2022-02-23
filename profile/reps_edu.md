@@ -1,7 +1,8 @@
 # Educational projects
-## 2021
+## 2022
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| - | - | [2021-Project-93-2](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-2) | [Vladislav Pyzh](https://github.com/vladpyzh) |
 
 
 
