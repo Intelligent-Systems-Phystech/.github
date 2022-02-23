@@ -2,6 +2,12 @@
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+
+
+
+## 2021
+Repository description|Repository description (Russian)|Link| Contributors |
+|--- | --- | --- | --- |
 | - | - | [2021-Project-17](https://github.com/intelligent-Systems-Phystech/2021-Project-17) | [Yaroslaw Kulackov](https://github.com/kulackov-yaroslaw) |
 | - | - | [2021-Project-74](https://github.com/intelligent-Systems-Phystech/2021-Project-74) | [Anton39reg  (???)](https://github.com/anton39reg) , [Anton Khritankov](https://github.com/prog-autom) |
 | Importance Sampling for Chance Constrained Optimization | - | [2021-Project-78](https://github.com/intelligent-Systems-Phystech/2021-Project-78) | [Vyacheslav Gorchakov](https://github.com/vgorchakov) |
