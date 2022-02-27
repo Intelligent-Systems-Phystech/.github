@@ -8,6 +8,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Wildfire prediction|Прогнозирование лесных пожаров |[2022-Project-93](https://github.com/Intelligent-Systems-Phystech/2022-Project-93)| [Zharov Georgii](https://github.com/Egor-s-gor)|
 | Anti-Distillation | Антидистилляция |[2022-Project97](https://github.com/Intelligent-Systems-Phystech/2022-Project97)| [Petrushina Kseniia](https://github.com/pkseniya)|
 | Protein-protein interaction prediction | Предсказание белок-белковых взаимодействий | [2022-Project-103](https://github.com/Intelligent-Systems-Phystech/2022-Project-103) | [Alen Aliev](https://github.com/AlievAE) |
+| Prediction of hand movement by video | Предсказание движения руки по видео | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-90) | [Eduard Vladimirov](https://github.com/Edyarich) |
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
