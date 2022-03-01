@@ -10,7 +10,7 @@ Repository description|Repository description (Russian)|Link| Contributors |
 | Protein-protein interaction prediction | Предсказание белок-белковых взаимодействий | [2022-Project-103](https://github.com/Intelligent-Systems-Phystech/2022-Project-103) | [Alen Aliev](https://github.com/AlievAE) |
 | Prediction of hand movement by video | Предсказание движения руки по видео | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-90) | [Eduard Vladimirov](https://github.com/Edyarich) |
 | Graph neural networks in the regression problem of graph pairs | Графовые нейронные сети в задаче регрессии пар графов | [2022-Project-102](https://github.com/Intelligent-Systems-Phystech/2022-Project-102) | [Artem Zavarzin](https://github.com/Artemut555) |
-|Electromechanical characteristics of the underwater propulsion|Электромеханические характеристики подводного движителя|(https://github.com/Intelligent-Systems-Phystech/2022-Project-Underwater.git)| [Dmitry Lovchikov](https://github.com/syntheticerror) [Olga Sukhova](https://github.com/OlgaSukhovaUlara)|
+|Electromechanical characteristics of the underwater propulsion|Электромеханические характеристики подводного движителя|[2022-Project-Underwater](https://github.com/Intelligent-Systems-Phystech/2022-Project-Underwater.git)| [Dmitry Lovchikov](https://github.com/syntheticerror) [Olga Sukhova](https://github.com/OlgaSukhovaUlara)|
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
