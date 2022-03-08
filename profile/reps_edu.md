@@ -3,7 +3,7 @@
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
 | Prediction of hand movement by video | Предсказание движения руки по видео | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-90) | [Eduard Vladimirov](https://github.com/Edyarich) |
-| Human activity trajectories' clusterisation | Кластеризация траекторий движения человека | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-91) | [Valentina Smith](https://github.com/valentinafom) |
+| Human activity trajectories' clusterisation | Кластеризация траекторий движения человека | [2022-Project-91](https://github.com/Intelligent-Systems-Phystech/2022-Project-91) | [Valentina Smith](https://github.com/valentinafom) |
 | Wildfire prediction|Прогнозирование лесных пожаров |[2022-Project-93](https://github.com/Intelligent-Systems-Phystech/2022-Project-93)| [Zharov Georgii](https://github.com/Egor-s-gor)|
 | Winterstorm prediction|Прогнозирование снежных метелей |[2022-Project-93-1](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-1)| [Nikita Kornilov](https://github.com/Jhomanik)|
 | - | - | [2021-Project-93-2](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-2) | [Vladislav Pyzh](https://github.com/vladpyzh) |
