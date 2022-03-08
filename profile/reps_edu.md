@@ -2,18 +2,21 @@
 ## 2022
 Repository description|Repository description (Russian)|Link| Contributors |
 |--- | --- | --- | --- |
+| Prediction of hand movement by video | Предсказание движения руки по видео | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-90) | [Eduard Vladimirov](https://github.com/Edyarich) |
+| Human activity trajectories' clusterisation | Кластеризация траекторий движения человека | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-91) | [Valentina Smith](https://github.com/valentinafom) |
+| Wildfire prediction|Прогнозирование лесных пожаров |[2022-Project-93](https://github.com/Intelligent-Systems-Phystech/2022-Project-93)| [Zharov Georgii](https://github.com/Egor-s-gor)|
 | Winterstorm prediction|Прогнозирование снежных метелей |[2022-Project-93-1](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-1)| [Nikita Kornilov](https://github.com/Jhomanik)|
 | - | - | [2021-Project-93-2](https://github.com/Intelligent-Systems-Phystech/2022-Project-93-2) | [Vladislav Pyzh](https://github.com/vladpyzh) |
-| CNN interpretation | Интерпретация свёрточных нейронных сетей | [2022-Project99](https://github.com/Intelligent-Systems-Phystech/2022-Project99) | [Timur Muradov](https://github.com/TimkaMLG) |
-| Wildfire prediction|Прогнозирование лесных пожаров |[2022-Project-93](https://github.com/Intelligent-Systems-Phystech/2022-Project-93)| [Zharov Georgii](https://github.com/Egor-s-gor)|
 | Anti-Distillation: Knowledge Transfer from Simple Model to a Complex One | Антидистилляция: перенос знаний от простой модели к сложной |[2022-Project97](https://github.com/Intelligent-Systems-Phystech/2022-Project97)| [Petrushina Kseniia](https://github.com/pkseniya)|
-| Compression for Federated Random Reshuffling | Сжатие для распределённого обучения случайными перестановками |[2022-Project107](https://github.com/Intelligent-Systems-Phystech/2022-Project107)| [Antyshev Tikhon](https://github.com/JustAnotherArchetype)|
-| Protein-protein interaction prediction | Предсказание белок-белковых взаимодействий | [2022-Project-103](https://github.com/Intelligent-Systems-Phystech/2022-Project-103) | [Alen Aliev](https://github.com/AlievAE) |
-| Prediction of hand movement by video | Предсказание движения руки по видео | [2022-Project-90](https://github.com/Intelligent-Systems-Phystech/2022-Project-90) | [Eduard Vladimirov](https://github.com/Edyarich) |
-| Graph neural networks in the regression problem of graph pairs | Графовые нейронные сети в задаче регрессии пар графов | [2022-Project-102](https://github.com/Intelligent-Systems-Phystech/2022-Project-102) | [Artem Zavarzin](https://github.com/Artemut555) |
-|Electromechanical characteristics of the underwater propulsion|Электромеханические характеристики подводного движителя|[2022-Project-Underwater](https://github.com/Intelligent-Systems-Phystech/2022-Project-Underwater.git)| [Dmitry Lovchikov](https://github.com/syntheticerror) [Olga Sukhova](https://github.com/OlgaSukhovaUlara)|
+| CNN interpretation | Интерпретация свёрточных нейронных сетей | [2022-Project99](https://github.com/Intelligent-Systems-Phystech/2022-Project99) | [Timur Muradov](https://github.com/TimkaMLG) |
 |Stochastic Newton with Arbitrary Sampling|Стохастические Ньютоновские методы с произвольным семплингом|[2022-Project-101](https://github.com/Intelligent-Systems-Phystech/2022-Project-101)| [Мельников Игорь](https://github.com/MelnikovIgor1)|
+| Graph neural networks in the regression problem of graph pairs | Графовые нейронные сети в задаче регрессии пар графов | [2022-Project-102](https://github.com/Intelligent-Systems-Phystech/2022-Project-102) | [Artem Zavarzin](https://github.com/Artemut555) |
+| Protein-protein interaction prediction | Предсказание белок-белковых взаимодействий | [2022-Project-103](https://github.com/Intelligent-Systems-Phystech/2022-Project-103) | [Alen Aliev](https://github.com/AlievAE) |
 |Multilingual plagiarism detection|Кроссязычный поиск дубликатов|[2022-Project-104](https://github.com/Intelligent-Systems-Phystech/2022-Project-104)| [Тищенко Евгений](https://github.com/hadingus)|
+| Compression for Federated Random Reshuffling | Сжатие для распределённого обучения случайными перестановками |[2022-Project107](https://github.com/Intelligent-Systems-Phystech/2022-Project107)| [Antyshev Tikhon](https://github.com/JustAnotherArchetype)|
+|Electromechanical characteristics of the underwater propulsion|Электромеханические характеристики подводного движителя|[2022-Project-Underwater](https://github.com/Intelligent-Systems-Phystech/2022-Project-Underwater.git)| [Dmitry Lovchikov](https://github.com/syntheticerror) [Olga Sukhova](https://github.com/OlgaSukhovaUlara)|
+
+
 
 ## 2021
 Repository description|Repository description (Russian)|Link| Contributors |
