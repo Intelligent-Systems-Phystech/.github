@@ -32,6 +32,7 @@ Student | Work title |Work title (English)|Link|Level|
 Student| Work title |Work title (English)|Link|Level|
 | --- | --- | --- | --- | --- | 
 | [Sviatoslav Panchenko](https://github.com/PanchenkoSviatoslav) | Построение вероятностного метрического пространства для моделирования зависимых от ориентации состояний | - | [ProbabilisticMetricSpace](https://github.com/Intelligent-Systems-Phystech/ProbabilisticMetricSpace) | Bachelor |
+| [Sviatoslav Panchenko](https://github.com/PanchenkoSviatoslav) | Билинейность геометрического произведения для решения задачи декодирования | - | [GeometricAlgebra](https://github.com/Intelligent-Systems-Phystech/GeometricAlgebra) | Master |
 
 ## Group 474 (2017—2020) 
 Student| Work title |Work title (English)|Link|Level|
