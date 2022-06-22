@@ -8,6 +8,7 @@ Student | Work title |Work title (English)|Link|Level|
 [Lindemann Nikita](https://github.com/LinNikMIPT)|Анализ апостериорного распределения параметров нейросети при упорядочивании параметров | Analysis of the posterior distribution of neural network parameters when ordering parameters |  [Lindemann-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Lindemann-BS-Thesis) |  Bachelor |
 | [Pilkevich Anton](https://github.com/anton39reg) |Оптимизация критерия, заданного нейросетевой моделью, в задаче детоксификации текста | Optimization of the criterion given by the neural network model in the text detoxification task |  [Pilkevich-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Pilkevich-BS-Thesis) | Bachelor|
 [Yakovlev Konstantin](https://github.com/Konstantin-Iakovlev)|Поиск согласованных нейросетевых архитектур с контролем сложности| Selection of concordant architectures with complexity control |  [Yakovlev-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Yakovlev-BS-Thesis) |  Bachelor |
+[Khristolybov Maxim](https://github.com/Maxim-Hristolubov)|Пространство параметров модели для аппроксимации фазовой траектории| Model parameter space for phase trajectory approximation |  [Khristolybov-BS-Thesis](https://github.com/Intelligent-Systems-Phystech/Khristolyubov-BS-Thesis/blob/main/paper/Khristolyubov_Bacalavr_Thesis%20(24).pdf) |  Bachelor |
 
 ## Group 774 (2020—2023) 
 Student | Work title |Work title (English)|Link|Level|
